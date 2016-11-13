@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intocable</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="s_name">Nombre</string>
+    <string name="s_comment">Comentario</string>
+    <string name="s_home">Casa</string>
+    <string name="s_buy">Comprar</string>
+    <string name="s_music">Música</string>
+    <string name="s_media">Medios</string>
+    <string name="s_news">Noticias</string>
+    <string name="s_flyer">Flyer</string>
+    <string name="s_events">Eventos</string>
+    <string name="s_listen_now">Escuchar ahora</string>
+    <string name="s_merchandise">Mercancías</string>
+    <string name="s_bio">Bio</string>
+    <string name="s_watch">Ver ahora</string>
+    <string name="s_preferences">Preferencias</string>
+    <string name="s_photos">Fotos</string>
+    <string name="s_video">Videos</string>
+    <string name="s_facebook">Facebook</string>
+    <string name="s_info">Info</string>
+    <string name="s_tweets">Tweets</string>
+    <string name="s_comments">Comentarios</string>
+    <string name="message">Mensaje</string>
+    <string name="exit_app">Quieres aplicación de salida? </string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="s_language">Lenguaje</string>
+    <string name="s_view_map">Ver Mapa</string>
+    <string name="s_notifications">Notificaciones</string>
+    <string name="s_purchase_tickets">Comprar boletos</string>
+    <string name="s_update">Actualizaciones</string>
+    <string name="s_check_in">Chequear</string>
+    <string name="s_about_application">Acerca de la Applicación</string>
+    <string name="s_automatically_update">Se actualiza automáticamente</string>
+    <string name="s_notification">Notificación</string>
+    <string name="s_post_cmt">Publicar un comentario</string>
+    <string name="s_live_stream_offline">Vivo corriente - Fuera de línea</string>
+    <string name="s_live_stream">Vivo corriente</string>
+    <string name="s_about_app">
+<![CDATA[
+	&copy; Copyright Intocable 2012 All Rights Reserverd. Powered by VND www.groupointocable.com www.vndx.com
+	]]>
+    </string>
+    <string name="header_about">Acerca de</string>
+    <string name="header_automatically_update">Se actualiza automáticamente</string>
+    <string name="header_event_detail">Eventos Detalles</string>
+    <string name="header_music">Música Página</string>
+    <string name="error">Error</string>
+    <string name="error_connect_internet_open">No hay conexión a Internet!\nQuieres ajuste abrir?</string>
+    <string name="open_setting">Abra Configuración</string>
+    <string name="error_empty_name">Introduzca su nombre</string>
+    <string name="error_empty_comment">Introduzca su comentario</string>
+    <string name="exit">Salida</string>
+
+</resources>

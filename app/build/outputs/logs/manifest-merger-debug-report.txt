@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:2:1-103:12
+	package
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-iid:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:19:22-72
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:27:5-98
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:27:22-95
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:28:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:29:22-65
+permission#com.intocable.permission.C2D_MESSAGE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:31:5-33:47
+	android:protectionLevel
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:32:9-60
+uses-permission#com.intocable.permission.C2D_MESSAGE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:35:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:40:5-66
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:40:22-63
+application
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:42:5-101:19
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:45:9-41
+	android:allowBackup
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:44:9-45
+	android:theme
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:46:9-68
+activity#com.intocable.Splash_Activity
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:47:9-55:20
+	android:label
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:48:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:53:27-74
+activity#com.intocable.MainHome_Activity
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:56:9-59:20
+	android:configChanges
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:58:13-71
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:57:13-46
+activity#com.intocable.Post_Comment_Activity
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:60:9-61:20
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:60:19-69
+activity#com.intocable.Photos_View_Activity
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:62:9-63:20
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:62:19-68
+activity#com.intocable.Youtube_video_Activity
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:64:19-70
+activity#com.intocable.app_fragments.Youtube_video_Activity
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:66:9-70:20
+	android:screenOrientation
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:69:9-43
+	android:configChanges
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:68:13-74
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:67:13-78
+activity#com.intocable.Website_Activity
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:71:9-72:20
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:71:19-64
+activity#com.intocable.SimpleImageActivity
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:73:9-77:69
+	android:label
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:76:13-45
+	android:configChanges
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:75:13-113
+	android:theme
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:77:13-66
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:74:13-48
+service#com.intocable.PlayMusicService
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:79:9-80:19
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:79:18-63
+meta-data#com.crashlytics.ApiKey
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:82:9-84:72
+	android:value
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:84:13-69
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:83:13-50
+receiver#com.google.android.gcm.GCMBroadcastReceiver
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:86:9-98:20
+	android:permission
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:88:13-73
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:87:13-71
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.intocable
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:89:13-97:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:92:17-81
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:92:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:94:17-86
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:94:25-83
+category#com.intocable
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:96:17-58
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:96:27-55
+service#com.intocable.GCMIntentService
+ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:100:9-66
+	android:name
+		ADDED from /Volumes/Work/Android_Intocable/Intocable/app/src/main/AndroidManifest.xml:100:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.0] /Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/AndroidManifest.xml:22:13-58

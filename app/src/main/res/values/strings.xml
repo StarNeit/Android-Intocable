@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intocable</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="s_name">Name</string>
+    <string name="s_comment">Comment</string>
+    <string name="s_home">Home</string>
+    <string name="s_buy">Buy</string>
+    <string name="s_music">Music</string>
+    <string name="s_media">Media</string>
+    <string name="s_news">News</string>
+    <string name="s_flyer">Flyer</string>
+    <string name="s_events">Events</string>
+    <string name="s_listen_now">Listen Now</string>
+    <string name="s_merchandise">Merchandise</string>
+    <string name="s_bio">Bio</string>
+    <string name="s_watch">Watch Now</string>
+    <string name="s_preferences">Preferences</string>
+    <string name="s_photos">Photos</string>
+    <string name="s_video">Videos</string>
+    <string name="s_facebook">Facebook</string>
+    <string name="s_info">Info</string>
+    <string name="s_tweets">Tweets</string>
+    <string name="s_comments">Comments</string>
+    <string name="message">Message</string>
+    <string name="exit_app">Do you want exit application ? </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="s_language">Language</string>
+    <string name="s_view_map">View Map</string>
+    <string name="s_notifications">Notifications</string>
+    <string name="s_purchase_tickets">Purchase Tickets</string>
+    <string name="s_update">Updates</string>
+    <string name="s_check_in">Check In</string>
+    <string name="s_about_application">About Application</string>
+    <string name="s_automatically_update">Automatically Updates</string>
+    <string name="s_notification">Notification</string>
+    <string name="s_post_cmt">Post a Comment</string>
+    <string name="s_live_stream_offline">Live Stream - Offline</string>
+    <string name="s_live_stream">Live Stream</string>
+    <string name="s_about_app">
+<![CDATA[
+	&copy; Copyright Intocable 2012 All Rights Reserverd. Powered by VND www.groupointocable.com www.vndx.com
+	]]>
+    </string>
+    <string name="s_msg_streamlive">There are no streaming events today, keep checking back for more.</string>
+    <string name="header_about">About</string>
+    <string name="header_automatically_update">Automatically Updates</string>
+    <string name="header_event_detail">Event Details</string>
+    <string name="header_music">Music Page</string>
+    <string name="error">Error</string>
+    <string name="error_connect_internet">No Inernet connection !\nPlease connect internet and retry !</string>
+    <string name="error_connect_internet_open">No Inernet connection !\nDo you want to open setting ?</string>
+    <string name="error_request_time_out">Request time out !\nPlease retry !</string>
+    <string name="error_empty_name">Please enter your name</string>
+    <string name="error_empty_comment">Please enter your comment</string>
+    <string name="open_setting">Open Settings</string>
+    <string name="exit">Exit App</string>
+
+</resources>

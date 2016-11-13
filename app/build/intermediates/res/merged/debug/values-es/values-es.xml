@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Intocable</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> necesita uno o varios Servicios de Google Play que no están disponibles en este momento. Ponte en contacto con el desarrollador para obtener ayuda."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Habilitar Servicios de Google Play"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Descargar Servicios de Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si Servicios de Google Play no está instalado en tu teléfono."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si Servicios de Google Play no está instalado en tu tablet."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"La cuenta especificada no existe en este dispositivo. Selecciona otra cuenta."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Cuenta no válida"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Se necesita una conexión de datos para establecer conexión con Servicios de Google Play."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Error de red"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Completa la acción que requiere <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Acción necesaria en servicios de Play"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"No se admite el acceso a las cuentas desde un perfil restringido."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Perfil restringido"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Error al iniciar sesión en la cuenta especificada. Selecciona otra cuenta."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Error al iniciar sesión"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas conServicios de Google Play. Si el problema persiste, ponte en contacto con el desarrollador para obtener ayuda."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> se basa en Servicios de Google Play, pero no es compatible con tu dispositivo. Ponte en contacto con el fabricante para obtener asistencia."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Servicios de Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualicesServicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Actualizando Servicios de Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="error">Error</string>
+    <string name="error_connect_internet_open">No hay conexión a Internet!\nQuieres ajuste abrir?</string>
+    <string name="error_empty_comment">Introduzca su comentario</string>
+    <string name="error_empty_name">Introduzca su nombre</string>
+    <string name="exit">Salida</string>
+    <string name="exit_app">Quieres aplicación de salida? </string>
+    <string name="header_about">Acerca de</string>
+    <string name="header_automatically_update">Se actualiza automáticamente</string>
+    <string name="header_event_detail">Eventos Detalles</string>
+    <string name="header_music">Música Página</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message">Mensaje</string>
+    <string name="no">No</string>
+    <string name="open_setting">Abra Configuración</string>
+    <string name="s_about_app">
+
+	&amp;copy; Copyright Intocable 2012 All Rights Reserverd. Powered by VND www.groupointocable.com www.vndx.com
+	
+    </string>
+    <string name="s_about_application">Acerca de la Applicación</string>
+    <string name="s_automatically_update">Se actualiza automáticamente</string>
+    <string name="s_bio">Bio</string>
+    <string name="s_buy">Comprar</string>
+    <string name="s_check_in">Chequear</string>
+    <string name="s_comment">Comentario</string>
+    <string name="s_comments">Comentarios</string>
+    <string name="s_events">Eventos</string>
+    <string name="s_facebook">Facebook</string>
+    <string name="s_flyer">Flyer</string>
+    <string name="s_home">Casa</string>
+    <string name="s_info">Info</string>
+    <string name="s_language">Lenguaje</string>
+    <string name="s_listen_now">Escuchar ahora</string>
+    <string name="s_live_stream">Vivo corriente</string>
+    <string name="s_live_stream_offline">Vivo corriente - Fuera de línea</string>
+    <string name="s_media">Medios</string>
+    <string name="s_merchandise">Mercancías</string>
+    <string name="s_music">Música</string>
+    <string name="s_name">Nombre</string>
+    <string name="s_news">Noticias</string>
+    <string name="s_notification">Notificación</string>
+    <string name="s_notifications">Notificaciones</string>
+    <string name="s_photos">Fotos</string>
+    <string name="s_post_cmt">Publicar un comentario</string>
+    <string name="s_preferences">Preferencias</string>
+    <string name="s_purchase_tickets">Comprar boletos</string>
+    <string name="s_tweets">Tweets</string>
+    <string name="s_update">Actualizaciones</string>
+    <string name="s_video">Videos</string>
+    <string name="s_view_map">Ver Mapa</string>
+    <string name="s_watch">Ver ahora</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="yes">Si</string>
+</resources>

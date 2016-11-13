@@ -1,0 +1,131 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_app"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_120"
+                android:layout_margin="@dimen/layout_20"
+                android:layout_weight="1"
+                android:background="@drawable/bg_row_watch_now"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:id="@+id/iv_watch_now_view"
+                    android:layout_width="@dimen/layout_100"
+                    android:layout_height="@dimen/layout_100"
+                    android:layout_marginLeft="@dimen/layout_20"
+                    android:background="@drawable/ic_btn_play"
+                    android:checked="true"
+                    android:clickable="true"
+                    android:onClick="onClick" />
+
+                <TextView
+                    android:id="@+id/tv_watch_now"
+                    style="@style/styleTextView_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/layout_30"
+                    android:text="Live Stream - Offline"
+                    android:textColor="#0000FF"
+                    android:textSize="@dimen/textSize40" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/layout_20"
+                android:background="@drawable/bg_skeebar"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:visibility="gone" >
+
+                <ImageView
+                    android:layout_width="@dimen/layout_35"
+                    android:layout_height="@dimen/layout_70"
+                    android:layout_marginLeft="@dimen/layout_15"
+                    android:layout_marginRight="@dimen/layout_5"
+                    android:src="@drawable/mute_min" />
+
+                <SeekBar
+                    android:id="@+id/seekBar_watch_now"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:indeterminate="false"
+                    android:progressDrawable="@drawable/styled_progress"
+                    android:thumb="@drawable/thum" />
+
+                <ImageView
+                    android:layout_width="@dimen/layout_85"
+                    android:layout_height="@dimen/layout_70"
+                    android:layout_marginLeft="@dimen/layout_5"
+                    android:layout_marginRight="@dimen/layout_15"
+                    android:src="@drawable/mute_max" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_watch"
+                style="@style/styleTextView_row"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                android:gravity="center"
+                android:text="The Intocable Live Stream feature is currently unavailable. Stay tuend for upcoming live performances."
+                android:textColor="#0000FF"
+                android:textSize="@dimen/textSize40"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+
+        <WebView
+            android:id="@+id/webView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/tv_msg_streamlive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/webView"
+            android:layout_alignBottom="@+id/webView"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:padding="@dimen/layout_30"
+            android:text="@string/s_msg_streamlive"
+            android:textColor="#ff000000"
+            android:textSize="@dimen/textSize45" />
+    </RelativeLayout>
+
+</LinearLayout>

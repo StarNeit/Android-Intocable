@@ -1,0 +1,115 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_100"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/ll_news_tab"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_100"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/s_news" />
+
+                <View
+                    android:id="@+id/view_news_tab"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_10"
+                    android:background="#0000FF" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/layout_5"
+                android:layout_height="wrap_content"
+                android:background="#cccccc" />
+
+            <LinearLayout
+                android:id="@+id/ll_facebook_tab"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_100"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/s_facebook" />
+
+                <View
+                    android:id="@+id/view_facebook_tab"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_10"
+                    android:background="#cccccc" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/layout_5"
+                android:layout_height="wrap_content"
+                android:background="#cccccc" />
+
+            <LinearLayout
+                android:id="@+id/ll_tweets_tab"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_100"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/s_tweets" />
+
+                <View
+                    android:id="@+id/view_tweets_tab"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_10"
+                    android:background="#cccccc" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/lv_news"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </ListView>
+
+        <WebView
+            android:id="@+id/wv_facebook"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

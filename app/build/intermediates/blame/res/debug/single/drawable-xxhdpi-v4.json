@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/title.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/title.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_merchandise.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_merchandise.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_media_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_media_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_proress.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_proress.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/merchandise.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/merchandise.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_music.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_music.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_news.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_news.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_news_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_news_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/title_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/title_landscape.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_events.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_events.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/image_null.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/image_null.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/splash_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/splash_landscape.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_watch_now.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_watch_now.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/check_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/check_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_bar_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_bar_landscape.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_pause.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_pause.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_home_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_home_landscape.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab3.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/tab3.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_yes.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_yes.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_text_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_text_landscape.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/thum.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/thum.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/mute_min.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/mute_min.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_home.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_home.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab1.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/tab1.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/mute_max.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/mute_max.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_more.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_more.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_merchandise_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_merchandise_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_listen_now.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_listen_now.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/check.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/check.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/listennow.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/listennow.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_more_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_more_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_media.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_media.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_next_item.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_biography.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_biography.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_no.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_no.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/row_listen.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/row_listen.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bt_espanol.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bt_espanol.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_bar.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_bar.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_media_videos.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_media_videos.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_events_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_events_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_row_watch_now.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_row_watch_now.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/splash.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/img3_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/img3_landscape.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_preferences.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_preferences.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_ic_googleplayservices.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab1_land.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/tab1_land.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bt_english.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bt_english.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_home.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_home.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_skeebar.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_skeebar.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_biography_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_biography_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_music_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_music_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab2_land.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/tab2_land.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_play.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_play.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_watch_now_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_watch_now_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab2.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/tab2.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/arrow.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/arrow.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/bg_landscape.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_listen_now_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_listen_now_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_btn_preferences_on.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/ic_btn_preferences_on.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/listennow_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-xxhdpi/listennow_landscape.png"
+    }
+]

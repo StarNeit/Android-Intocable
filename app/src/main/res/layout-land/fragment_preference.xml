@@ -1,0 +1,164 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layout_20"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/ll_language"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_150"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="onClick"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/layout_20"
+                    android:text="@string/s_language" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_40"
+                    android:layout_margin="@dimen/layout_40"
+                    android:src="@drawable/arrow" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_5"
+                android:layout_marginLeft="@dimen/layout_10"
+                android:layout_marginRight="@dimen/layout_10"
+                android:background="#cccccc" />
+
+            <LinearLayout
+                android:id="@+id/ll_notifications"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_150"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="onClick"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layout_20"
+                    android:gravity="center"
+                    android:text="@string/s_notifications" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_40"
+                    android:layout_margin="@dimen/layout_40"
+                    android:src="@drawable/arrow" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/layout_20"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/ll_update"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_150"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="onClick"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layout_20"
+                    android:gravity="center"
+                    android:text="@string/s_update" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_40"
+                    android:layout_margin="@dimen/layout_40"
+                    android:src="@drawable/arrow" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_5"
+                android:layout_marginLeft="@dimen/layout_10"
+                android:layout_marginRight="@dimen/layout_10"
+                android:background="#cccccc" />
+
+            <LinearLayout
+                android:id="@+id/ll_about_application"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_150"
+                android:background="#ffffff"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="onClick"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/layout_20"
+                    android:gravity="center"
+                    android:text="@string/s_about_application" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="@dimen/layout_25"
+                    android:layout_height="@dimen/layout_40"
+                    android:layout_margin="@dimen/layout_40"
+                    android:src="@drawable/arrow" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

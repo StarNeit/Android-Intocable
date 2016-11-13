@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/iv_row_merchandise"
+        android:layout_width="@dimen/layout_336"
+        android:layout_height="@dimen/layout_336"
+        android:scaleType="fitXY"
+        android:src="@drawable/image_null" />
+
+</LinearLayout>

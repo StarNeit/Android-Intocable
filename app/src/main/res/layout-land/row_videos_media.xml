@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:layout_width="@dimen/layout_225"
+        android:layout_height="@dimen/layout_225"
+        android:background="#000000"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true" >
+
+            <ImageView
+                android:id="@+id/iv_media_videos"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/image_null" />
+
+            <ImageView
+                android:layout_width="@dimen/layout_90"
+                android:layout_height="@dimen/layout_90"
+                android:layout_centerInParent="true"
+                android:src="@drawable/ic_btn_media_videos" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

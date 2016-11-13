@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg"
+        android:orientation="vertical" >
+
+        <include layout="@layout/header" />
+
+        <LinearLayout
+            android:id="@+id/ll_post_cmt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/layout_30"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/ed_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/layout_30"
+                android:background="#ffffff"
+                android:gravity="left|top"
+                android:hint="@string/s_name"
+                android:padding="@dimen/layout_20"
+                android:singleLine="true" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/ed_post_cmt"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_500"
+                android:background="#ffffff"
+                android:gravity="left|top"
+                android:hint="@string/s_comment"
+                android:padding="@dimen/layout_20" >
+            </EditText>
+
+            <Button
+                android:id="@+id/btn_post_cmt_2"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_135"
+                android:layout_marginTop="@dimen/layout_30"
+                android:background="@drawable/bg_skeebar"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:text="@string/s_post_cmt"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <include
+            android:id="@+id/bottomBar"
+            layout="@layout/bottom"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_home_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#66000000"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="@null" >
+
+        <ProgressBar
+            android:id="@+id/pb_home_loading"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+
+</RelativeLayout>

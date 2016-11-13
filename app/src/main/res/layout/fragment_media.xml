@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_150"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/ll_photo"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_150"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/s_photos" />
+
+                <View
+                    android:id="@+id/view_photo_tab"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_10"
+                    android:background="#0000FF" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="@dimen/layout_5"
+                android:layout_height="wrap_content"
+                android:background="#cccccc" />
+
+            <LinearLayout
+                android:id="@+id/ll_video"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_150"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/styleTextView_row"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/s_video" />
+
+                <View
+                    android:id="@+id/view_video_tab"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/layout_10"
+                    android:background="#cccccc" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_banner_media"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_400"
+            android:src="@drawable/image_null"
+            android:visibility="gone" />
+        
+
+        <GridView
+            android:id="@+id/gr_media"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/layout_20"
+            android:background="@android:color/transparent"
+            android:horizontalSpacing="@dimen/layout_20"
+            android:numColumns="3"
+            android:scrollbars="none"
+            android:verticalSpacing="@dimen/layout_20" >
+        </GridView>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi-v4/bg_home_landscape.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-land-xxhdpi/bg_home_landscape.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi-v4/tab1.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-land-xxhdpi/tab1.png"
+    },
+    {
+        "merged": "/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi-v4/tab2.png",
+        "source": "/Volumes/Work/Android_Intocable/Intocable/app/src/main/res/drawable-land-xxhdpi/tab2.png"
+    }
+]

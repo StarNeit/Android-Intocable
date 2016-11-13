@@ -1,0 +1,261 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/layout_175"
+    android:layout_gravity="bottom"
+    android:background="@drawable/bg_bar_landscape"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ViewFlipper
+        android:id="@+id/viewFlipper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/layout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/llMusic"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_music"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_music" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_music"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llMedia"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_media"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_media" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_media"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llNews"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_news"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_news" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_news"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llEvents"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_events"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_events" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_events"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llListen"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_listen_now"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_listennow" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_listen_now"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/layout_10"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/llMerchanise"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_merchandise"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_merchandise" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_merchandise"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llBio"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_bio"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_merchandise" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_bio"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llWatch"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_watch_now"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_watch_now" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_watch"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/llPreferences"
+                    android:layout_width="@dimen/layout_225"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/iv_preferences"
+                        android:layout_width="@dimen/layout_80"
+                        android:layout_height="@dimen/layout_60"
+                        android:src="@drawable/bt_preferences" />
+
+                    <TextView
+                        style="@style/styleTextView_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/s_preferences"
+                        android:textSize="@dimen/textSize35" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ViewFlipper>
+
+    <ImageView
+        android:id="@+id/iv_more"
+        android:layout_width="@dimen/layout_110"
+        android:layout_height="@dimen/layout_25"
+        android:layout_gravity="top|center"
+        android:clickable="true"
+        android:onClick="onClick"
+        android:src="@drawable/tab1" />
+
+</LinearLayout>

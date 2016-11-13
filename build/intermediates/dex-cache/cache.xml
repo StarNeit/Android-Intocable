@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="22b22fa123908b4ce336aba475d2156176eba343">
+        <dex dex="/Volumes/Work/Android_Intocable/Intocable/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5420d51118da40304f215e6f5961de9657d95346/classes.dex" />
+    </item>
+
+</items>

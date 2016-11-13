@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/layout_135"
+    android:background="@drawable/bg_bar"
+    android:gravity="center_vertical"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/ll_imv_home"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imv_home"
+            android:layout_width="@dimen/layout_80"
+            android:layout_height="@dimen/layout_80"
+            android:layout_margin="@dimen/layout_20"
+            android:src="@drawable/ic_btn_home" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_title"
+        style="@style/styleTextView_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layout_20"
+        android:layout_weight="1"
+        android:lines="1"
+        android:gravity="left"
+        android:text="@string/s_home" />
+
+    <TextView
+        android:id="@+id/tv_header_buy"
+        style="@style/styleTextView_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/layout_20"
+        android:clickable="true"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:text="@string/s_buy"
+        android:visibility="invisible" />
+
+</LinearLayout>

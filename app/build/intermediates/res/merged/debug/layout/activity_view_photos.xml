@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <include layout="@layout/header" />
+
+    <LinearLayout
+        android:id="@+id/ll_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/layout_25"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <matabii.dev.scaleimageview.ScaleImageView
+            android:id="@+id/iv_view_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/layout_20"
+            android:background="#000000"
+            android:scaleType="matrix" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_275"
+        android:background="@drawable/bg_bar"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="@dimen/layout_90"
+            android:layout_height="@dimen/layout_90"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:rotation="180"
+            android:src="@drawable/ic_btn_media_videos" />
+
+        <ImageView
+            android:id="@+id/iv_next"
+            android:layout_width="@dimen/layout_90"
+            android:layout_height="@dimen/layout_90"
+            android:layout_margin="@dimen/layout_20"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:src="@drawable/ic_btn_media_videos" />
+    </LinearLayout>
+
+</LinearLayout>

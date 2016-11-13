@@ -1,0 +1,257 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_150"
+        android:background="#d5d5d5"
+        android:padding="@dimen/layout_20" >
+
+        <TextView
+            android:id="@+id/tv_title_details"
+            style="@style/styleTextView_row"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:lines="2"
+            android:maxLines="2"
+            android:text="San Antonia, TX \n At&amp;t Centre"
+            android:textColor="#0000FF"
+            android:textSize="@dimen/textSize40" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1.0" />
+
+        <TextView
+            android:id="@+id/tv_date_time_details"
+            style="@style/styleTextView_row"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:lines="2"
+            android:maxLines="2"
+            android:text="February 12, 2014\n 9:00 pm"
+            android:textSize="@dimen/textSize40" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_110"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ll_flyer_tab"
+            android:layout_width="@dimen/layout_336"
+            android:layout_height="@dimen/layout_95"
+            android:background="@drawable/bg_tab_left_normal"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/styleTextView_row"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/s_flyer" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_info_tab"
+            android:layout_width="@dimen/layout_336"
+            android:layout_height="@dimen/layout_95"
+            android:background="@drawable/bg_tab_center_normal"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/styleTextView_row"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/s_info" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_comments_tab"
+            android:layout_width="@dimen/layout_336"
+            android:layout_height="@dimen/layout_95"
+            android:background="@drawable/bg_tab_right_normal"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/styleTextView_row"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/s_comments" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ll_post_cmt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btn_post_cmt"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/layout_80"
+                android:layout_gravity="center"
+                android:background="@drawable/bg_skeebar"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:text="@string/s_post_cmt"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/textSize35" />
+        </LinearLayout>
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/ll_viewFlyer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:id="@+id/iv_flyer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:clickable="true"
+                        android:onClick="onClick"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/image_null" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+
+                    <LinearLayout
+                        android:id="@+id/ll_view_map"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_100"
+                        android:background="#ffffff"
+                        android:clickable="true"
+                        android:gravity="center_vertical"
+                        android:onClick="onClick"
+                        android:orientation="horizontal"
+                        android:padding="@dimen/layout_20" >
+
+                        <TextView
+                            style="@style/styleTextView_row"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:text="@string/s_view_map"
+                            android:textSize="@dimen/textSize40" />
+
+                        <ImageView
+                            android:layout_width="@dimen/layout_25"
+                            android:layout_height="@dimen/layout_40"
+                            android:src="@drawable/arrow" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_5"
+                        android:background="#cccccc" />
+
+                    <LinearLayout
+                        android:id="@+id/ll_purchase_tickets"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_100"
+                        android:background="#ffffff"
+                        android:clickable="true"
+                        android:gravity="center_vertical"
+                        android:onClick="onClick"
+                        android:orientation="horizontal"
+                        android:padding="@dimen/layout_20" >
+
+                        <TextView
+                            style="@style/styleTextView_row"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:text="@string/s_purchase_tickets"
+                            android:textSize="@dimen/textSize40" />
+
+                        <ImageView
+                            android:layout_width="@dimen/layout_25"
+                            android:layout_height="@dimen/layout_40"
+                            android:src="@drawable/arrow" />
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_5"
+                        android:background="#cccccc" />
+
+                    <LinearLayout
+                        android:id="@+id/ll_check_in"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/layout_100"
+                        android:background="#ffffff"
+                        android:clickable="true"
+                        android:gravity="center_vertical"
+                        android:onClick="onClick"
+                        android:orientation="horizontal"
+                        android:padding="@dimen/layout_20" >
+
+                        <TextView
+                            style="@style/styleTextView_row"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:text="@string/s_check_in"
+                            android:textSize="@dimen/textSize40" />
+
+                        <ImageView
+                            android:layout_width="@dimen/layout_25"
+                            android:layout_height="@dimen/layout_40"
+                            android:src="@drawable/arrow" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>
